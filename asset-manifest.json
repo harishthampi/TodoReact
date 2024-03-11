@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harishthampi/TodoReact.git/static/css/main.3d89abe5.css",
+    "main.js": "/harishthampi/TodoReact.git/static/js/main.f9dce991.js",
+    "static/js/453.9ba88982.chunk.js": "/harishthampi/TodoReact.git/static/js/453.9ba88982.chunk.js",
+    "index.html": "/harishthampi/TodoReact.git/index.html",
+    "main.3d89abe5.css.map": "/harishthampi/TodoReact.git/static/css/main.3d89abe5.css.map",
+    "main.f9dce991.js.map": "/harishthampi/TodoReact.git/static/js/main.f9dce991.js.map",
+    "453.9ba88982.chunk.js.map": "/harishthampi/TodoReact.git/static/js/453.9ba88982.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d89abe5.css",
+    "static/js/main.f9dce991.js"
+  ]
+}
